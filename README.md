@@ -2,7 +2,7 @@
   <tr>
     <td width="260" valign="top">
       <div align="center">
-        <img src="PASTE_YOUR_PHOTO_RAW_URL_HERE" width="180" style="border-radius:50%;" />
+        <img src="https://github.com/hja15/hja15/blob/main/profile.jpg" width="180" style="border-radius:50%;" />
         <h2>Heather Anderson</h2>
         <p><strong>Data Scientist</strong></p>
         <p>Autoimmune & Microbiome Research<br/>Machine Learning & Bayesian Modeling</p>
