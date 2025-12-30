@@ -1,22 +1,22 @@
 <table>
-  <tr>
-    <td width="260" valign="top">
-      <div align="center">
-        <img src="https://github.com/hja15/hja15/blob/main/profile.jpg" width="180" style="border-radius:50%;" />
-        <h2>Heather Anderson</h2>
-        <p><strong>Data Scientist</strong></p>
-        <p>Autoimmune & Microbiome Research<br/>Machine Learning & Bayesian Modeling</p>
+<tr>
+<td width="260" valign="top">
+<div align="center">
+<img src="https://github.com/hja15/hja15/blob/main/profile.jpg" width="180" style="border-radius:50%;" />
+<h2>Heather Anderson</h2>
+<p><strong>Data Scientist</strong></p>
+<p>Autoimmune & Microbiome Research<br/>Machine Learning & Bayesian Modeling</p>
 
-        <p>
-          📍 Florida, USA<br/>
-          📧 <a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a><br/>
-          🔗 <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">LinkedIn</a><br/>
-          🌐 <a href="YOUR_WEBSITE_URL_HERE" target="_blank">Portfolio Website</a>
-        </p>
-      </div>
-    </td>
+<p>
+Florida, USA<br/>
+<a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a><br/>
+<a href="YOUR_LINKEDIN_URL_HERE" target="_blank">LinkedIn</a><br/>
+<a href="YOUR_WEBSITE_URL_HERE" target="_blank">Portfolio Website</a>
+</p>
+</div>
+</td>
 
-    <td valign="top">
+<td valign="top">
 
 # Welcome
 
@@ -54,6 +54,6 @@ Short description here.
 **M.S. Data Science** (University of West Florida) — 4.0 GPA  
 **Next:** PhD interest in Microbial & Cellular Data Science / Computational Immunology
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
