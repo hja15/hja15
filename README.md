@@ -37,8 +37,9 @@ Developed a generative AI system that analyzes resumes and job descriptions usin
 [View Gen AI Resume Matcher Repo](https://github.com/hja15/gen-ai-resume-matcher)
 
 ### Sign Language Recognition Using CNNs
-Built a convolutional neural network (CNN) to classify American Sign Language letters using the Sign Language MNIST and ASL Fingerspelling datasets. The project focused on image preprocessing, data augmentation, model training, and evaluation of classification performance. 
-**Repo:** [Sign Language CNN](PASTE_REPO_LINK)
+Built a convolutional neural network (CNN) to classify American Sign Language letters using the Sign Language MNIST and ASL Fingerspelling datasets. The project focused on image preprocessing, data augmentation, model training, and evaluation of classification performance.
+<br/>
+[View Sign Language CNN Repo](https://github.com/hja15/sign-language-cnn)
 
 ### Machine Learning Classification Projects (Kaggle)
 Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification (benign vs malignant), breast cancer detection, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
