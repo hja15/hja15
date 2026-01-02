@@ -9,9 +9,9 @@
 
 <p>
 Florida, USA<br/>
-<a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a><br/>
-<a href="YOUR_LINKEDIN_URL_HERE" target="_blank">LinkedIn</a><br/>
-<a href="YOUR_WEBSITE_URL_HERE" target="_blank">Portfolio Website</a>
+<a href="mailto:hjanderson23@gmail.com">YOUR_EMAIL_HERE</a><br/>
+<a href="(https://www.linkedin.com/in/heatherandersonprofile/)" target="_blank">LinkedIn</a><br/>
+<a href="WEBSITE_URL" target="_blank">Portfolio Website</a>
 </p>
 </div>
 </td>
