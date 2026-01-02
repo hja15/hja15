@@ -20,7 +20,7 @@ Florida, USA<br/>
 # Welcome
 
 **I’m a data scientist interested in disease modeling and AI-driven research, with a focus on applying statistical and machine learning methods to healthcare data.**  
-This page serves as a concise overview of selected projects and experience.
+*This page serves as a concise overview of selected projects and experience.*
 
 ---
 
