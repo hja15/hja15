@@ -24,34 +24,41 @@ My portfolio includes school projects plus ongoing work toward research-focused 
 
 ---
 
-## Featured Projects (School + Early Portfolio)
+## Featured Projects
 
-### Sign Language Recognition (CNN)
-Short description here.  
+### AI Resume Matcher: Generative AI Capstone (Kaggle × Google)
+Developed a generative AI system that analyzes resumes and job descriptions using large language models, computes semantic match scores via embeddings, and generates personalized improvement suggestions. The project demonstrates document understanding, vector search, and structured output in a production-style workflow.
+**Repo:** [Gen AI Resume Matcher](PASTE_REPO_LINK)
+
+### Sign Language Recognition Using CNNs
+Built a convolutional neural network (CNN) to classify American Sign Language letters using the Sign Language MNIST and ASL Fingerspelling datasets. The project focused on image preprocessing, data augmentation, model training, and evaluation of classification performance. 
 **Repo:** [Sign Language CNN](PASTE_REPO_LINK)
 
 ### Bayesian Modeling Project (Airline Delays)
-Short description here.  
+Applied Bayesian linear regression using the brms package in R to analyze how weather-related factors impact airline arrival delays. Emphasized probabilistic modeling, MCMC sampling, posterior interpretation, and uncertainty quantification rather than point estimates.  
 **Repo:** [Bayesian Airline Delay Model](PASTE_REPO_LINK)
 
-### Forest Cover Type Prediction
-Short description here.  
-**Repo:** [Forest Cover Prediction](PASTE_REPO_LINK)
+### Machine Learning Classification Projects (Kaggle)
+Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification (benign vs malignant), breast cancer detection, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
+**Repo:** [ML Classification Projects](PASTE_REPO_LINK)
 
-### Tumor Classification (Benign vs Malignant)
-Short description here.  
-**Repo:** [Tumor Classification](PASTE_REPO_LINK)
+### Early Disease Prediction Based on Patient Data
+Designed a big data pipeline for early disease prediction using patient records, Hadoop, and NoSQL databases. The project focused on scalable data processing and applying machine learning techniques to support early diagnosis in healthcare settings.
+**Repo:** [Early Disease Prediction](PASTE_REPO_LINK)
+
 
 ---
 
-## 🛠 Skills
-**Python, R, SQL** • scikit-learn • PyTorch/TensorFlow • Bayesian modeling • data visualization
+## Skills
+**Python, R, SQL** • statistical modeling & analysis • machine learning • scikit-learn • PyTorch/TensorFlow • Bayesian modeling • data visualization
 
 ---
 
 ## Education
-**M.S. Data Science** (University of West Florida) — 4.0 GPA  
-**Next:** PhD interest in Microbial & Cellular Data Science / Computational Immunology
+**M.S. Data Science (Analytics & Modeling Track)** 
+University of West Florida — 4.0 GPA
+
+Focused on statistical modeling, machine learning, and predictive analytics, with strong emphasis on programming, data structures, and mathematical foundations for solving complex problems.
 
 </td>
 </tr>
