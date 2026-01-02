@@ -19,8 +19,8 @@ Florida, USA<br/>
 
 # Welcome
 
-I’m a data scientist interested in **autoimmune disease modeling, microbiome analytics, and AI-driven research**.  
-My portfolio includes school projects plus ongoing work toward research-focused projects.
+**I’m a data scientist interested in disease modeling and AI-driven research, with a focus on applying statistical and machine learning methods to healthcare data.**  
+This page serves as a concise overview of selected projects and experience.
 
 ---
 
