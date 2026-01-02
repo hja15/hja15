@@ -47,7 +47,8 @@ Completed multiple machine learning classification projects using real-world dat
 
 ### Early Disease Prediction Based on Patient Data
 Designed a big data pipeline for early disease prediction using patient records, Hadoop, and NoSQL databases. The project focused on scalable data processing and applying machine learning techniques to support early diagnosis in healthcare settings.
-**Repo:** [Early Disease Prediction](PASTE_REPO_LINK)
+<br/>
+[View Early Disease Prediction Repo](https://github.com/hja15/early-disease-prediction)
 
 
 ---
