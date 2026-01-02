@@ -27,8 +27,8 @@ Florida, USA<br/>
 ## Featured Projects
 
 ### Bayesian Modeling Project (Airline Delays)
-Applied Bayesian linear regression using the brms package in R to analyze how weather-related factors impact airline arrival delays. Emphasized probabilistic modeling, MCMC sampling, posterior interpretation, and uncertainty quantification rather than point estimates.  
-**Project Website:** https://hja15.github.io/IDC6940_BayesianBandits/BLRproject.html
+Applied Bayesian linear regression using the brms package in R to analyze how weather-related factors impact airline arrival delays. Emphasized probabilistic modeling, MCMC sampling, posterior interpretation, and uncertainty quantification rather than point estimates. 
+**Project Page:** [View Project Website](https://hja15.github.io/IDC6940_BayesianBandits/BLRproject.html)
 
 ### AI Resume Matcher: Generative AI Capstone (Kaggle × Google)
 Developed a generative AI system that analyzes resumes and job descriptions using large language models, computes semantic match scores via embeddings, and generates personalized improvement suggestions. The project demonstrates document understanding, vector search, and structured output in a production-style workflow.
