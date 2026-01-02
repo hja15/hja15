@@ -31,6 +31,11 @@ Applied Bayesian linear regression using the brms package in R to analyze how we
 <br/>
 [View Project Website](https://hja15.github.io/IDC6940_BayesianBandits/BLRproject.html)
 
+### Machine Learning Classification Projects (Kaggle)
+Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification (benign vs malignant), breast cancer detection, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
+<br/>
+[View ML Classification Projects Repo](https://github.com/hja15/kaggle-ml-classification-projects)
+
 ### AI Resume Matcher: Generative AI Capstone (Kaggle × Google)
 Developed a generative AI system that analyzes resumes and job descriptions using large language models, computes semantic match scores via embeddings, and generates personalized improvement suggestions. The project demonstrates document understanding, vector search, and structured output in a production-style workflow.
 <br/>
@@ -40,11 +45,6 @@ Developed a generative AI system that analyzes resumes and job descriptions usin
 Built a convolutional neural network (CNN) to classify American Sign Language letters using the Sign Language MNIST and ASL Fingerspelling datasets. The project focused on image preprocessing, data augmentation, model training, and evaluation of classification performance.
 <br/>
 [View Sign Language CNN Repo](https://github.com/hja15/sign-language-cnn)
-
-### Machine Learning Classification Projects (Kaggle)
-Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification (benign vs malignant), breast cancer detection, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
-<br/>
-[View ML Classification Projects Repo](https://github.com/hja15/kaggle-ml-classification-projects)
 
 ### Early Disease Prediction Based on Patient Data
 Designed a big data pipeline for early disease prediction using patient records, Hadoop, and NoSQL databases. The project focused on scalable data processing and applying machine learning techniques to support early diagnosis in healthcare settings.
