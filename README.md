@@ -43,7 +43,7 @@ Built a convolutional neural network (CNN) to classify American Sign Language le
 
 ### Machine Learning Classification Projects (Kaggle)
 Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification (benign vs malignant), breast cancer detection, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
-**Repo:** [ML Classification Projects](PASTE_REPO_LINK)
+[View ML Classification Projects Repo](https://github.com/hja15/kaggle-ml-classification-projects)
 
 ### Early Disease Prediction Based on Patient Data
 Designed a big data pipeline for early disease prediction using patient records, Hadoop, and NoSQL databases. The project focused on scalable data processing and applying machine learning techniques to support early diagnosis in healthcare settings.
