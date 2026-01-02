@@ -34,7 +34,7 @@ Applied Bayesian linear regression using the brms package in R to analyze how we
 ### AI Resume Matcher: Generative AI Capstone (Kaggle × Google)
 Developed a generative AI system that analyzes resumes and job descriptions using large language models, computes semantic match scores via embeddings, and generates personalized improvement suggestions. The project demonstrates document understanding, vector search, and structured output in a production-style workflow.
 <br/>
-**Repo:** [Gen AI Resume Matcher](https://github.com/hja15/gen-ai-resume-matcher)
+[View Gen AI Resume Matcher Repo](https://github.com/hja15/gen-ai-resume-matcher)
 
 ### Sign Language Recognition Using CNNs
 Built a convolutional neural network (CNN) to classify American Sign Language letters using the Sign Language MNIST and ASL Fingerspelling datasets. The project focused on image preprocessing, data augmentation, model training, and evaluation of classification performance. 
