@@ -26,6 +26,10 @@ Florida, USA<br/>
 
 ## Featured Projects
 
+### Bayesian Modeling Project (Airline Delays)
+Applied Bayesian linear regression using the brms package in R to analyze how weather-related factors impact airline arrival delays. Emphasized probabilistic modeling, MCMC sampling, posterior interpretation, and uncertainty quantification rather than point estimates.  
+**Project Website:** https://hja15.github.io/IDC6940_BayesianBandits/BLRproject.html
+
 ### AI Resume Matcher: Generative AI Capstone (Kaggle × Google)
 Developed a generative AI system that analyzes resumes and job descriptions using large language models, computes semantic match scores via embeddings, and generates personalized improvement suggestions. The project demonstrates document understanding, vector search, and structured output in a production-style workflow.
 **Repo:** [Gen AI Resume Matcher](PASTE_REPO_LINK)
@@ -33,10 +37,6 @@ Developed a generative AI system that analyzes resumes and job descriptions usin
 ### Sign Language Recognition Using CNNs
 Built a convolutional neural network (CNN) to classify American Sign Language letters using the Sign Language MNIST and ASL Fingerspelling datasets. The project focused on image preprocessing, data augmentation, model training, and evaluation of classification performance. 
 **Repo:** [Sign Language CNN](PASTE_REPO_LINK)
-
-### Bayesian Modeling Project (Airline Delays)
-Applied Bayesian linear regression using the brms package in R to analyze how weather-related factors impact airline arrival delays. Emphasized probabilistic modeling, MCMC sampling, posterior interpretation, and uncertainty quantification rather than point estimates.  
-**Repo:** [Bayesian Airline Delay Model](PASTE_REPO_LINK)
 
 ### Machine Learning Classification Projects (Kaggle)
 Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification (benign vs malignant), breast cancer detection, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
