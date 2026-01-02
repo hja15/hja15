@@ -28,11 +28,13 @@ Florida, USA<br/>
 
 ### Bayesian Modeling Project (Airline Delays)
 Applied Bayesian linear regression using the brms package in R to analyze how weather-related factors impact airline arrival delays. Emphasized probabilistic modeling, MCMC sampling, posterior interpretation, and uncertainty quantification rather than point estimates. 
-<br/>[View Project Website](https://hja15.github.io/IDC6940_BayesianBandits/BLRproject.html)
+<br/>
+[View Project Website](https://hja15.github.io/IDC6940_BayesianBandits/BLRproject.html)
 
 ### AI Resume Matcher: Generative AI Capstone (Kaggle × Google)
 Developed a generative AI system that analyzes resumes and job descriptions using large language models, computes semantic match scores via embeddings, and generates personalized improvement suggestions. The project demonstrates document understanding, vector search, and structured output in a production-style workflow.
-**Repo:** [Gen AI Resume Matcher](PASTE_REPO_LINK)
+<br/>
+**Repo:** [Gen AI Resume Matcher](https://github.com/hja15/gen-ai-resume-matcher)
 
 ### Sign Language Recognition Using CNNs
 Built a convolutional neural network (CNN) to classify American Sign Language letters using the Sign Language MNIST and ASL Fingerspelling datasets. The project focused on image preprocessing, data augmentation, model training, and evaluation of classification performance. 
