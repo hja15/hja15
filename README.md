@@ -29,7 +29,7 @@ Florida, USA<br/>
 ### Bayesian Modeling Project (Airline Delays)
 Applied Bayesian linear regression using the brms package in R to analyze how weather-related factors impact airline arrival delays. Emphasized probabilistic modeling, MCMC sampling, posterior interpretation, and uncertainty quantification rather than point estimates. 
 <br/>
-[View Project Website](https://hja15.github.io/bayesian-airline-delay-analysis/) <br/> [View Repository With Project Overview](https://github.com/hja15/bayesian-airline-delay-analysis)
+[View Repository With Project Overview](https://github.com/hja15/bayesian-airline-delay-analysis) <br/> [View Project Website](https://hja15.github.io/bayesian-airline-delay-analysis/)
 
 ### Machine Learning Classification Projects (Kaggle)
 Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification (benign vs malignant), breast cancer detection, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
