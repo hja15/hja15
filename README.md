@@ -61,7 +61,7 @@ Designed a big data pipeline for early disease prediction using patient records,
 
 ## Education
 **M.S. Data Science (Analytics & Modeling Track)** 
-University of West Florida — 4.0 GPA
+University of West Florida, 4.0 GPA
 
 Focused on statistical modeling, machine learning, and predictive analytics, with strong emphasis on programming, data structures, and mathematical foundations for solving complex problems.
 
