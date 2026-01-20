@@ -32,7 +32,7 @@ Applied Bayesian linear regression using the brms package in R to analyze how we
 [Project Website](https://hja15.github.io/bayesian-airline-delay-analysis/) · [Repository](https://github.com/hja15/bayesian-airline-delay-analysis)
 
 ### Machine Learning Classification Projects (Kaggle)
-Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification for breast cancer detection (benign vs malignant), income classification, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
+Completed multiple machine learning classification projects using real-world datasets, including forest cover type prediction, tumor classification for breast cancer detection (benign vs malignant), income classification, and customer churn analysis. Implemented and compared models such as Logistic Regression, Random Forest, Perceptron, SVM, KNN, and Decision Trees, with performance evaluated using domain-appropriate metrics.
 <br/>
 [Repository](https://github.com/hja15/kaggle-ml-classification-projects)
 
